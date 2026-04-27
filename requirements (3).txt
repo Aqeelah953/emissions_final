@@ -1,0 +1,8 @@
+
+pandas
+plotly
+kaleido
+statsmodels
+matplotlib
+pycountry
+streamlit
