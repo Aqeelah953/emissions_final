@@ -81,7 +81,6 @@ def get_country_names():
     return names
 
 COUNTRY_NAMES = get_country_names()
-}
 
 @st.cache_data
 def load_data():
